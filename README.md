@@ -19,9 +19,6 @@
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"></code>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-peruchi&show_icons=true)
-
-
 Outside of [GitHub](https://github.com/gabriel-peruchi), You can find me. I'm currently active on the following social networks
 
 [![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_peruch) 
