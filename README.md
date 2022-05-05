@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Gabriel Peruchi</h1>
+<h1 align="center">Gabriel Peruchi</h1>
 
 <h4 align="center" style="font-weight: normal;">Happy to see you here! 😄<h4>
 
