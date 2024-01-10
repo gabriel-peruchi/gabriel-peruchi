@@ -1,26 +1,9 @@
-<h1 align="center">Gabriel Peruchi</h1>
+# Gabriel Peruchi 
 
-<h4 align="center" style="font-weight: normal;">Happy to see you here! 😄<h4>
+CTO @inmetasoft.
 
-<div align="center">
+[![Instagram Badge](https://img.shields.io/badge/Instagram-1DA1F2?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_peruch) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-peruchi-a29500107)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:gabriel-peruchi@hotmail.com)
 
-<div style="font-weight: normal; padding: 10px 100px;">Welcome to my profile. I'm a full stack developer and have been working with software development since 2018.</div>
-
-<h4>Languages and Tools</h4>
-
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue.js"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"></code>
-
-Outside of [GitHub](https://github.com/gabriel-peruchi), You can find me. I'm currently active on the following social networks
-
-[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_peruch) 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-peruchi-a29500107)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/gabriel-peruchi)
-
-</div>
+Bachelor of Computer Science and web developer.
